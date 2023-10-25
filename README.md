@@ -1,4 +1,4 @@
-# learn-space
+# Archetype Themes X Maylen Cytryn
 Hi there!
 </br>Thank you so much for taking the time to learn more about me and to visit my repository!
 

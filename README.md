@@ -25,7 +25,7 @@ Questions 1-3 are outlined together in the Project "<a href="https://github.com/
 View tasks organized by time frame <a href="https://github.com/users/maylencytryn/projects/2/views/6">here</a>
 
 
-<h2>MORE ABOUT MAYLEN</h2>
+<h1>MORE ABOUT MAYLEN</h1>
 &#128064 You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn/">here</a>
 <br>&#128584 Want to see my website? You'll find that <a href="https://www.thoughtfulops.com/">here</a>
 <br>&#128571 I have a cat named Louie, he's an orange tabby.

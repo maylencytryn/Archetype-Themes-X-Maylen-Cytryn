@@ -13,13 +13,13 @@ Hi there!
 Questions 1-3 are outlined together in the Project "<a href="https://github.com/users/maylencytryn/projects/2">Maylen's First 100 Days</a>". Question 4 is answered in part through the same project as well as through the following <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/wiki#deliverable-scenarios-contd">Wiki</a>.
 <h2>VIEW BY QUESTION</h2>
 1. How you will get to know the company, CEO, and other team members?
-<br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
+<br> Filter for 'Company' <a href="https://github.com/users/maylencytryn/projects/2/views/7">here</a>
 <br><br>2. What tools you’ll need.
-<br> Filter for 'Tools' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ATools">here</a>
+<br> Filter for 'Tools' <a href="https://github.com/users/maylencytryn/projects/2/views/8">here</a>
 <br><br>3. How you will learn their project management system GitHub.
-<br> Filter for 'GitHub' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3AGitHub">here</a>
+<br> Filter for 'GitHub' <a href="https://github.com/users/maylencytryn/projects/2/views/9">here</a>
 <br><br>4. Thoughts on how to implement structures for internal and external projects
-<br> - Filter for 'Structure' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
+<br> - Filter for 'Structure' <a href="https://github.com/users/maylencytryn/projects/2/views/10">here</a>
 <br> - Review Wiki "<a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/wiki#deliverable-scenarios-contd">DELIVERABLE SCENARIOS CONT'D</a>"
 <h2>VIEW BY TIME FRAME</h2>
 View tasks organized by time frame <a href="https://github.com/users/maylencytryn/projects/2/views/6">here</a>

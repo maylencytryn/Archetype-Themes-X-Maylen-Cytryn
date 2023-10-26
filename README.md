@@ -1,6 +1,6 @@
 # Archetype Themes X Maylen Cytryn
 Hi there!
-<br>Thank you so much for taking the time to learn more about me and to visit my repository!
+<br>Thank you so much for taking the time to learn more about me and to visit my repository! The role of Executive Operations Officer seems to be a perfect fit and the more I learn about it, the more eager I am to dive in and get started. Please find within this repository just a small look at me, the way I think, create, and problem-solve. I am looking forward to learning more about you!
 
 <h2>OPEN RESPONSES</h2>
 <b>1. Outline (in detail) How an Executive Assistant can bring calm to a Leader and improve their mental well-being: </b>

@@ -14,7 +14,7 @@ Questions 1-3 are outlined together in the Project "<a href="https://github.com/
 <h2>VIEW BY QUESTION</h2>
 1. How you will get to know the company, CEO, and other team members?
 <br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
-<br><br>2. What tools you’ll need
+<br><br>2. What tools you’ll need.
 <br> Filter for 'Tools' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ATools">here</a>
 <br><br>3. How you will learn their project management system GitHub.
 <br> Filter for 'GitHub' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3AGitHub">here</a>

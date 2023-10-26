@@ -22,7 +22,7 @@ Questions 1-3 are outlined together in the Project "<a href="https://github.com/
 <br> - Filter for 'Structure' <a href="https://github.com/users/maylencytryn/projects/2/views/10">here</a>
 <br> - Review Wiki "<a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/wiki#deliverable-scenarios-contd">DELIVERABLE SCENARIOS CONT'D</a>"
 <h2>VIEW BY TIME FRAME</h2>
-View tasks organized by time frame <a href="https://github.com/users/maylencytryn/projects/2/views/6">here</a>
+View all the previous tasks organized by time frame <a href="https://github.com/users/maylencytryn/projects/2/views/6">here</a>
 
 
 <h1>MORE ABOUT MAYLEN</h1>

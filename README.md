@@ -9,15 +9,16 @@ Hi there!
 
 <h2>DELIVERABLE SCENARIOS</h2>
 All questions in this section are outlined together in the Project "<a href="https://github.com/users/maylencytryn/projects/2">Maylen's First 100 Days</a>". <i>However for ease, feel free to use the below pre-filtered labels to see each question separately.</i>
+
 <br><br>1. How you will get to know the company, CEO, and other team members?
 <br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
 <br><br>2. What tools you’ll need
-<br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
-
-<br><br>How you will learn their project management system GitHub.
-<br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
-<br><br>Thoughts on how to implement structures for internal and external projects
-<br> WIKI During my interview with Danielle, we discussed 2 different priorities that Archetype Themes is currently facing.
+<br> Filter for 'Tools' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ATools">here</a>
+<br><br>3. How you will learn their project management system GitHub.
+<br> Filter for 'GitHub' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3AGitHub">here</a>
+<br><br>4. Thoughts on how to implement structures for internal and external projects
+<br> - Filter for 'Structure' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
+<br> - Review Wiki "
 <h2>MORE ABOUT MAYLEN</h2>
 You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn/">here</a>
 <br>Want to see my website? You'll find that <a href="https://www.thoughtfulops.com/">here</a>
@@ -30,4 +31,4 @@ You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn
 <br>- 1. How you will get to know the company, CEO, and other team members? <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
 <br>- 2. What tools you’ll need. <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ATools">here</a>
 <br>- 3. How you will learn their project management system GitHub. <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3AGitHub">here</a>
-<br>- 4. 
+<br>- 4. Thoughts on how to implement structures for internal and external projects

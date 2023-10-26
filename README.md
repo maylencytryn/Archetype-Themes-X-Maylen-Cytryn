@@ -9,7 +9,7 @@ Hi there!
 <br>Check out that answer in <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/wiki/2.-How-does-one-delegate%3F-Outline-your-steps-to-successful-delegation-tactics.">this Wiki</a>.
 
 <h2>DELIVERABLE SCENARIOS</h2>
-Questions 1-3 are outlined together in the Project "<a href="https://github.com/users/maylencytryn/projects/2">Maylen's First 100 Days</a>". Question 4 is answered in part through the same project as well as through the following <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/wiki#deliverable-scenarios-contd">Wiki</a>. 
+_Questions 1-3 are outlined together in the Project "<a href="https://github.com/users/maylencytryn/projects/2">Maylen's First 100 Days</a>". Question 4 is answered in part through the same project as well as through the following <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/wiki#deliverable-scenarios-contd">Wiki</a>._
 <br><br>1. How you will get to know the company, CEO, and other team members?
 <br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
 <br><br>2. What tools you’ll need

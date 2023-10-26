@@ -13,11 +13,12 @@ All questions in this section are outlined together in the Project "<a href="htt
 <br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
 <br><br>What tools you’ll need
 <br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
-<br><br>Thoughts on how to implement structures for internal and external projects
-<br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
+
 <br><br>How you will learn their project management system GitHub.
 <br> Filter for 'Company' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
+<br><br>Thoughts on how to implement structures for internal and external projects
+<br> WIKI During my interview with Danielle, we discussed 2 different priorities that Archetype Themes is currently facing.
 <h2>MORE ABOUT MAYLEN</h2>
 You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn/">here</a>
 <br>Want to see my website? You'll find that <a href="https://www.thoughtfulops.com/">here</a>
-I have a cat named Louie, he's an orange tabby. Here's a pic of him:
+<br>I have a cat named Louie, he's an orange tabby. Here's a pic of him:

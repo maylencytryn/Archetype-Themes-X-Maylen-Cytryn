@@ -19,11 +19,6 @@ All questions in this section are outlined together in the Project "<a href="htt
 <br><br>4. Thoughts on how to implement structures for internal and external projects
 <br> - Filter for 'Structure' <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ACompany">here</a>
 <br> - Review Wiki "
-<h2>MORE ABOUT MAYLEN</h2>
-You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn/">here</a>
-<br>Want to see my website? You'll find that <a href="https://www.thoughtfulops.com/">here</a>
-<br>I have a cat named Louie, he's an orange tabby. Here's a pic of him:
-
 <br>TLDR;
 <br>View a full list of tasks <a href="https://github.com/users/maylencytryn/projects/2">here</a>
 <br>View tasks organized by time frame <a href="https://github.com/users/maylencytryn/projects/2/views/6">here</a>
@@ -32,3 +27,11 @@ You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn
 <br>- 2. What tools you’ll need. <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3ATools">here</a>
 <br>- 3. How you will learn their project management system GitHub. <a href="https://github.com/maylencytryn/Archetype-Themes-X-Maylen-Cytryn/issues?q=is%3Aopen+is%3Aissue+label%3AGitHub">here</a>
 <br>- 4. Thoughts on how to implement structures for internal and external projects
+
+<h2>MORE ABOUT MAYLEN</h2>
+&#128064 You can check out my LinkedIn <a href="https://www.linkedin.com/in/maylen-cytryn/">here</a>
+<br>&#128584 Want to see my website? You'll find that <a href="https://www.thoughtfulops.com/">here</a>
+<br>&#128571 I have a cat named Louie, he's an orange tabby.
+<br>&#128214; The book that I would recommend to all humans: <a href="https://www.goodreads.com/book/show/615570.The_Artist_s_Way">here</a>
+<br>&#127911; The podcast I am currently listening to: <a href="https://open.spotify.com/episode/1uXTcqWE0vwJgQ6iQJSDYV)https://open.spotify.com/episode/1uXTcqWE0vwJgQ6iQJSDYV">here</a>
+<br>&#10052;&#65039; My favourite season is winter - yes! I love the cold!
